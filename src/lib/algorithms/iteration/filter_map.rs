@@ -21,5 +21,5 @@ fn demo_vector_map_filter() {
             }
         })
         .collect();
-    assert_eq!(ys, vec![3]);
+    assert_eq!(ys, vec![3])
 }
